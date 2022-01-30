@@ -1,0 +1,1 @@
+# String-inside-the-function
